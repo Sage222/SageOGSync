@@ -1,6 +1,4 @@
-# SageOGSync
-Sync's the past 30 and future 30 days from your Outlook Client to your Google Calendar 
-Step-by-Step Setup
+tep-by-Step Setup
 1. Install Python and Required Packages
 
 Make sure Python 3.10+ is installed.
